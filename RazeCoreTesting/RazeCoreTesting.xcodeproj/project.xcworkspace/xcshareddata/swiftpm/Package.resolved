@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RazeCore",
+        "repositoryURL": "https://github.com/amarildolucas/CourseRazeCore",
+        "state": {
+          "branch": null,
+          "revision": "45fa2f9ccfa4fb91c2b1dd7f0d1cb3dba4224111",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
